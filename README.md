@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Suraj Tadhani</h1>
-<h3 align="center">A passionate MERN STACK developer from India</h3>
+<h1 align="center">Hi 👋, I'm Divyang Surani</h1>
+<h3 align="center">A passionate Front End Developer from India</h3>
 <img align="right" alt="Coding" width="400px"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VvMnY0bzNveHZqbW5tcjBpNGV2N3pra2RnbW52azdvb3pzc2JicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajtadhani&label=Profile%20views&color=0e75b6&style=flat" alt="surajtadhani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajtadhani&label=Profile%20views&color=0e75b6&style=flat" alt="Divyangsurani" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Divyang49](https://github.com/divyang49)
+- 👨‍💻 All of my projects are available at [https://github.com/divyangsurani](https://github.com/divyangsurani)
 
 - 💬 Ask me about **React Js**
 
-- 📫 How to reach me **surajtadhani@gmail.com**
+- 📫 How to reach me **divyangsurani49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
