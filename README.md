@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/www.linkedin.com/in/divyang](https://www.linkedin.com/in/divyang-surani-916b96278/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/suraj1845" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/www.linkedin.com/in/divyang](https://www.linkedin.com/in/divyang-surani-916b96278/)](https://www.linkedin.com/in/divyang-surani-916b96278/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/suraj1845" height="30" width="40" /></a>
 <a href="https://instagram.com/__imdivyang13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_tadhani" height="30" width="40" /></a>
 </p>
 
